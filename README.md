@@ -1,6 +1,5 @@
 # replace-nft-avatars
-a chrome extension that replaces the nft avatars on twitter with subway jared
-
+a chrome extension that replaces the nft avatars on twitter
 ## to install
 1. Download this repo (Code > Download ZIP).
 2. Unzip it anywhere.
