@@ -1,16 +1,10 @@
 {
-  "name": "Replace NFT Avatars",
-  "description": "Replaces the image in the hexagonal avatars on Twitter",
+  "name": "Change NFT Avatars",
+  "description": "Makes the hexagonal avatars on Twitter into little circles",
   "version": "1.0",
   "manifest_version": 3,
   "content_scripts": [{
-    "js": ["replace.js"],
+    "js": ["change.js"],
     "matches": ["https://twitter.com/*"]
-  }],
-  "web_accessible_resources": [
-    {
-      "resources": [ "nft-large.png", "nft-small.png" ],
-      "matches": [ "https://twitter.com/*" ]
-    }
-  ]
+  }]
 }

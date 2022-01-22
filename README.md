@@ -1,6 +1,6 @@
-# replace-nft-avatars
-a chrome extension that replaces the nft avatars on twitter
-## to install
+# Change NFT Avatars
+A Chrome extension that makes the hexagonal avatars on Twitter into little circles
+## To Install
 1. Download this repo (Code > Download ZIP).
 2. Unzip it anywhere.
 3. Open the Extension Management page by navigating to chrome://extensions.
